@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Opt and Digeon
-- 🌱 I’m currently learning software architecture, security, data analysis, etc.
+- 🌱 I’m currently learning software architecture, security, data analysis, machine learning and etc.
 - ⚡ Fun fact: I can't eat cuke.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=checche&count_private=true&show_icons=true" />
