@@ -19,14 +19,12 @@
   </a>
 </p>
 
-<div>
-  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=checche&count_private=true&show_icons=true&bg_color=30,EFE9E7,DAE0F2&title_color=666&text_color=666&icon_color=666" />
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checche&count_private=true&hide=jupyter%20notebook,html&langs_count=15&layout=compact&bg_color=30,DAE0F2,F9CFF2&title_color=666&text_color=666" />
-</div>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=checche&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div>
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=checche&count_private=true&show_icons=true&bg_color=30,EFE9E7,DAE0F2&title_color=666&text_color=666&icon_color=666" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checche&count_private=true&hide=jupyter%20notebook,html&langs_count=15&layout=compact&bg_color=30,DAE0F2,F9CFF2&title_color=666&text_color=666" />
+</div>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=checche" />
 
