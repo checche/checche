@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Opt and Digeon
 - 🌱 I’m currently learning software architecture, security, data analysis, machine learning and etc.
 - ⚡ Fun fact: I can't eat cuke.
 
